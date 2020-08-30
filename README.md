@@ -14,8 +14,6 @@ En este curso aprendí:
 
 `npm i @radixleon/radixmediaplayer`
 
-## Demo con la librería publicada
-* [Ver](https://rabileon.github.io/javascript-profesional/website/index.html)
 
 ## Contacto
 * [Twitter](https://twitter.com/rabileon)

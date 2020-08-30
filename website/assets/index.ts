@@ -1,4 +1,4 @@
-import MediaPlayer from '@radixleon/radixmediaplayer"';
+import MediaPlayer from '@radixleon/radixmediaplayer';
 import AutoPlay from '@radixleon/radixmediaplayer"/lib/AutoPlay';
 import AutoPause from '@radixleon/radixmediaplayer"/lib/AutoPause';
 import Ads from '@radixleon/radixmediaplayer"/lib/Ads';
