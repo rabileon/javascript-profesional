@@ -10,7 +10,9 @@ En este curso aprendí:
 * ✔ Publicar una librería en NPM
 
 ## Librería publicada en NPM
-* [Puedes ir al aquí](https://www.npmjs.com/package/@radixleon/radixmediaplayer)
+* [Puedes ir al enlace aqui](https://www.npmjs.com/package/@radixleon/radixmediaplayer)
+
+`npm i @radixleon/radixmediaplayer`
 
 ## Demo con la librería publicada
 * [Ver](https://rabileon.github.io/javascript-profesional/website/index.html)
